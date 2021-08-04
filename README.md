@@ -1,8 +1,7 @@
 # proyecto-fisica
 
 
-https://es.overleaf.com/project/60e34fb91916ba1e470dc462
-
+https://es.overleaf.com/6972559363rpvrtckgdpjm
 
 Objetivo General:
 -Hacer ingeniería inversa con los materiales caseros que se encuentren en el hogar.
