@@ -1,0 +1,30 @@
+Midiendo resistencia con multimetro:
+- Metiendo el dispositivo en una caja y esa caja a su vez en otra y poniendo todo en un lugar oscuro de la habitación, el multímetro detecta una resistencia infiintia o circuito abierto para el dispositivo estudiado
+- Metiendolo dentro de solo una caja y en un lugar poco luminoso se obtiene una medida de 8.9M ohm. Sin embargo moviendo la caja a un lugar ligeramente mas iluminado, la medida del multimetro es ahora 6M ohm. El dispositivo es muy sensible a la luz, sin sacaralo de la caja detecta con precisión los cambios de intesidad de luz en su entorno.
+- Saliendo a un lugar abierto, con un cielo parcialmente nublado, el multímetro toma la medida de 0.45k ohm
+
+
+Midiendo tensión con multimetro:
+Se construye un cirtuito divisor de tensión con una batería de 6.52V y una resistencia variable. Se toman 2 medidas, una con poca luz y otra con mucha luz. Las condiciones de la medida con poca luz son Metiendo el dispositivo en una caja y esa caja a su vez en otra y poniendo todo en un lugar oscuro de la habitación. Las conduciones de medida de mayor luz son Saliendo a un lugar abierto, con un cielo parcialmente nublado.
+Para encontrar mayor precisión se usan diferentes potenciometroos, de 1k, 10k y 100k ohm. 
+Durante las medidas pueden haber variaciones de clima
+
+450 ohm:
+- Poca luz: 6.51V
+- Mucha luz: 3.15V
+
+1k ohm:
+- Poca luz: 6.25V
+- Mucha luz: 2.26V
+
+10k ohm:
+- Poca luz: 6.46V
+- Mucha luz: 395mV
+
+50k ohm: 
+- Poca luz: 6.25V
+- Mucha luz: 78.8mV
+
+100k ohm:
+- Poca luz: 6.27V
+- Mucha luz: 46.6mV
